@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="518.4pt" height="237.6pt" viewBox="0 0 518.4 237.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-20T12:14:52.837752</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 237.6 
+L 518.4 237.6 
+L 518.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 44.64 70.56 
+L 201.36 70.56 
+L 201.36 18 
+L 44.64 18 
+z
+" clip-path="url(#p08321df2c7)" style="fill: #f2f2f2"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 201.36 70.56 
+L 358.08 70.56 
+L 358.08 18 
+L 201.36 18 
+z
+" clip-path="url(#p08321df2c7)" style="fill: #f2f2f2"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 44.64 175.68 
+L 44.64 18 
+" clip-path="url(#p08321df2c7)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 201.36 175.68 
+L 201.36 18 
+" clip-path="url(#p08321df2c7)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 358.08 175.68 
+L 358.08 18 
+" clip-path="url(#p08321df2c7)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 514.8 175.68 
+L 514.8 18 
+" clip-path="url(#p08321df2c7)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 44.64 175.68 
+L 514.8 175.68 
+" clip-path="url(#p08321df2c7)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 44.64 123.12 
+L 514.8 123.12 
+" clip-path="url(#p08321df2c7)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 44.64 70.56 
+L 514.8 70.56 
+" clip-path="url(#p08321df2c7)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 44.64 18 
+L 514.8 18 
+" clip-path="url(#p08321df2c7)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 44.64 175.68 
+L 514.8 175.68 
+" clip-path="url(#p08321df2c7)" style="fill: none; stroke: #595959; stroke-width: 0.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 44.64 175.68 
+L 44.64 18 
+" clip-path="url(#p08321df2c7)" style="fill: none; stroke: #595959; stroke-width: 0.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_11">
+    <defs>
+     <path id="m83bd8fca36" d="M 0 4 
+C 1.060812 4 2.078319 3.578535 2.828427 2.828427 
+C 3.578535 2.078319 4 1.060812 4 0 
+C 4 -1.060812 3.578535 -2.078319 2.828427 -2.828427 
+C 2.078319 -3.578535 1.060812 -4 0 -4 
+C -1.060812 -4 -2.078319 -3.578535 -2.828427 -2.828427 
+C -3.578535 -2.078319 -4 -1.060812 -4 0 
+C -4 1.060812 -3.578535 2.078319 -2.828427 2.828427 
+C -2.078319 3.578535 -1.060812 4 0 4 
+z
+" style="stroke: #1a1a1a; stroke-width: 0.8"/>
+    </defs>
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#m83bd8fca36" x="50.88" y="210.96" style="fill-opacity: 0; stroke: #1a1a1a; stroke-width: 0.8"/>
+    </g>
+   </g>
+   <g id="line2d_12">
+    <defs>
+     <path id="mc4fbaf5c74" d="M 0 2.5 
+C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
+C 2.236584 1.29895 2.5 0.663008 2.5 0 
+C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
+C 1.29895 -2.236584 0.663008 -2.5 0 -2.5 
+C -0.663008 -2.5 -1.29895 -2.236584 -1.767767 -1.767767 
+C -2.236584 -1.29895 -2.5 -0.663008 -2.5 0 
+C -2.5 0.663008 -2.236584 1.29895 -1.767767 1.767767 
+C -1.29895 2.236584 -0.663008 2.5 0 2.5 
+z
+" style="stroke: #ffffff; stroke-width: 0.4"/>
+    </defs>
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#mc4fbaf5c74" x="50.88" y="210.96" style="fill: #1a1a1a; stroke: #ffffff; stroke-width: 0.4"/>
+    </g>
+   </g>
+   <g id="line2d_13">
+    <defs>
+     <path id="m9f28fca841" d="M 0 -2.8 
+L -2.8 2.8 
+L 2.8 2.8 
+z
+" style="stroke: #1a1a1a; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </defs>
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#m9f28fca841" x="137.88" y="210.96" style="fill: #6e6e6e; stroke: #1a1a1a; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_14">
+    <defs>
+     <path id="ma747b543d8" d="M -2.3 2.3 
+L 2.3 2.3 
+L 2.3 -2.3 
+L -2.3 -2.3 
+z
+" style="stroke: #1a1a1a; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </defs>
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#ma747b543d8" x="202.38" y="210.96" style="fill: #bdbdbd; stroke: #1a1a1a; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #595959" x="123" y="186.092578" transform="rotate(-0 123 186.092578)">Low</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #595959" x="279.72" y="186.092578" transform="rotate(-0 279.72 186.092578)">Low to medium</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #595959" x="436.44" y="186.092578" transform="rotate(-0 436.44 186.092578)">Medium</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #595959" x="40.32" y="151.080352" transform="rotate(-0 40.32 151.080352)">Medium</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; fill: #595959" transform="translate(9.977188 95.393725)">Medium to</text>
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; fill: #595959" transform="translate(28.031953 101.570807)">high</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #595959" x="40.32" y="45.922266" transform="rotate(-0 40.32 45.922266)">High</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="279.72" y="200.215781" transform="rotate(-0 279.72 200.215781)">Cost to test on LegoBot now (ordinal)</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="4.32" y="11.89125" transform="rotate(-0 4.32 11.89125)">Expected value (ordinal)</text>
+   </g>
+   <g id="text_9">
+    <g id="patch_4">
+     <path d="M 406.80875 14.715313 
+L 514.985 14.715313 
+L 514.985 5.444688 
+L 406.80875 5.444688 
+z
+" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1a1a1a" x="513.36" y="11.722266" transform="rotate(-0 513.36 11.722266)">Positions are this report's judgement</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="48.96" y="26.160352" transform="rotate(-0 48.96 26.160352)">Tier 1: run first</text>
+   </g>
+   <g id="line2d_15">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#m83bd8fca36" x="210" y="26.46" style="fill-opacity: 0; stroke: #1a1a1a; stroke-width: 0.8"/>
+    </g>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="217.92" y="28.140352" transform="rotate(-0 217.92 28.140352)">IC-001* Learned transmission model</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #595959" x="354.48" y="27.975938" transform="rotate(-0 354.48 27.975938)">modelling</text>
+   </g>
+   <g id="line2d_16">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#m83bd8fca36" x="210" y="38.34" style="fill-opacity: 0; stroke: #1a1a1a; stroke-width: 0.8"/>
+    </g>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="217.92" y="40.021875" transform="rotate(-0 217.92 40.021875)">IC-005* Real-to-sim fitting</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #595959" x="354.48" y="39.855938" transform="rotate(-0 354.48 39.855938)">modelling</text>
+   </g>
+   <g id="line2d_17">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#m83bd8fca36" x="210" y="50.22" style="fill-opacity: 0; stroke: #1a1a1a; stroke-width: 0.8"/>
+    </g>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="217.92" y="51.900352" transform="rotate(-0 217.92 51.900352)">IC-006* Residual RL on v0</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #595959" x="354.48" y="51.771094" transform="rotate(-0 354.48 51.771094)">control</text>
+   </g>
+   <g id="line2d_18">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#m83bd8fca36" x="210" y="62.1" style="fill-opacity: 0; stroke: #1a1a1a; stroke-width: 0.8"/>
+    </g>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="217.92" y="63.781875" transform="rotate(-0 217.92 63.781875)">IC-011* Runtime monitor, fault injection</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #595959" x="354.48" y="63.580781" transform="rotate(-0 354.48 63.580781)">system</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="374.64" y="92.621992" transform="rotate(-0 374.64 92.621992)">IC-002* Online latent adaptation</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #595959" x="511.2" y="92.415938" transform="rotate(-0 511.2 92.415938)">learning</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="374.64" y="104.461875" transform="rotate(-0 374.64 104.461875)">IC-014* Learning from takeovers</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #595959" x="511.2" y="104.295938" transform="rotate(-0 511.2 104.295938)">learning</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="61.2" y="92.581875" transform="rotate(-0 61.2 92.581875)">IC-003* Teacher–student (sim arm)</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #595959" x="197.76" y="92.415938" transform="rotate(-0 197.76 92.415938)">learning</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="61.2" y="104.461875" transform="rotate(-0 61.2 104.461875)">IC-018* Event-triggered imaging</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #595959" x="197.76" y="104.331094" transform="rotate(-0 197.76 104.331094)">perception</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="217.92" y="133.261875" transform="rotate(-0 217.92 133.261875)">IC-004* ADR + parameter ranking</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #595959" x="354.48" y="133.095937" transform="rotate(-0 354.48 133.095937)">modelling</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="217.92" y="145.141875" transform="rotate(-0 217.92 145.141875)">IC-010* Iterative residual policy</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #595959" x="354.48" y="145.011094" transform="rotate(-0 354.48 145.011094)">control</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="217.92" y="157.020352" transform="rotate(-0 217.92 157.020352)">IC-016* Foundation-model labels</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #595959" x="354.48" y="156.891094" transform="rotate(-0 354.48 156.891094)">perception</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="217.92" y="168.901875" transform="rotate(-0 217.92 168.901875)">IC-021* Graded autonomy modes</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #595959" x="354.48" y="168.771094" transform="rotate(-0 354.48 168.771094)">translation</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="374.64" y="28.141875" transform="rotate(-0 374.64 28.141875)">IC-007* Residual physics</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #595959" x="511.2" y="27.975938" transform="rotate(-0 511.2 27.975938)">modelling</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="374.64" y="40.021875" transform="rotate(-0 374.64 40.021875)">IC-015* World models, real fine-tuning</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #595959" x="511.2" y="39.855938" transform="rotate(-0 511.2 39.855938)">learning</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="374.64" y="51.900352" transform="rotate(-0 374.64 51.900352)">IC-017* Hard force constraints</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #595959" x="511.2" y="51.771094" transform="rotate(-0 511.2 51.771094)">control</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="374.64" y="63.819961" transform="rotate(-0 374.64 63.819961)">IC-019* Modular VFM pipeline</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #595959" x="511.2" y="63.580781" transform="rotate(-0 511.2 63.580781)">system</text>
+   </g>
+   <g id="line2d_19">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#m83bd8fca36" x="53.28" y="50.4" style="fill-opacity: 0; stroke: #1a1a1a; stroke-width: 0.8"/>
+    </g>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="61.2" y="52.081875" transform="rotate(-0 61.2 52.081875)">IC-008* Image-space Jacobian servo</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #595959" x="197.76" y="51.951094" transform="rotate(-0 197.76 51.951094)">control</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="61.2" y="145.141875" transform="rotate(-0 61.2 145.141875)">IC-009* Learned wire dynamics</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #595959" x="197.76" y="145.011094" transform="rotate(-0 197.76 145.011094)">perception</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="61.2" y="157.020352" transform="rotate(-0 61.2 157.020352)">IC-020* Conformal handover</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #595959" x="197.76" y="156.820781" transform="rotate(-0 197.76 156.820781)">system</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="374.64" y="145.141875" transform="rotate(-0 374.64 145.141875)">IC-012*◊ Scenario-based testing</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #595959" x="511.2" y="144.975938" transform="rotate(-0 511.2 144.975938)">regulation</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="374.64" y="157.021875" transform="rotate(-0 374.64 157.021875)">IC-013* Hierarchy with corrections</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 6px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #595959" x="511.2" y="156.855938" transform="rotate(-0 511.2 156.855938)">learning</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="4.32" y="212.641875" transform="rotate(-0 4.32 212.641875)">Tier (shape):</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="58.08" y="212.641875" transform="rotate(-0 58.08 212.641875)">tier 1, run first (ringed)</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="145.08" y="212.640352" transform="rotate(-0 145.08 212.640352)">tier 2, run next</text>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="209.58" y="212.65" transform="rotate(-0 209.58 212.65)">tier 3, later or opportunistic</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="4.32" y="232.081875" transform="rotate(-0 4.32 232.081875)">* insight card not yet verified by a10 (or with pending fields);  ◊ primary source read at abstract level only</text>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="4.32" y="222.361875" transform="rotate(-0 4.32 222.361875)">Grey text at the right of each cell: the insight's problem-solution matrix category (modelling, control, learning, perception, system, regulation or translation).</text>
+   </g>
+   <g id="line2d_20">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#mc4fbaf5c74" x="210" y="26.46" style="fill: #1a1a1a; stroke: #ffffff; stroke-width: 0.4"/>
+    </g>
+   </g>
+   <g id="line2d_21">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#mc4fbaf5c74" x="210" y="38.34" style="fill: #1a1a1a; stroke: #ffffff; stroke-width: 0.4"/>
+    </g>
+   </g>
+   <g id="line2d_22">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#mc4fbaf5c74" x="210" y="50.22" style="fill: #1a1a1a; stroke: #ffffff; stroke-width: 0.4"/>
+    </g>
+   </g>
+   <g id="line2d_23">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#mc4fbaf5c74" x="210" y="62.1" style="fill: #1a1a1a; stroke: #ffffff; stroke-width: 0.4"/>
+    </g>
+   </g>
+   <g id="line2d_24">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#m9f28fca841" x="366.72" y="90.9" style="fill: #6e6e6e; stroke: #1a1a1a; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_25">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#m9f28fca841" x="366.72" y="102.78" style="fill: #6e6e6e; stroke: #1a1a1a; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_26">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#m9f28fca841" x="53.28" y="90.9" style="fill: #6e6e6e; stroke: #1a1a1a; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_27">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#m9f28fca841" x="53.28" y="102.78" style="fill: #6e6e6e; stroke: #1a1a1a; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_28">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#ma747b543d8" x="210" y="131.58" style="fill: #bdbdbd; stroke: #1a1a1a; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_29">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#ma747b543d8" x="210" y="143.46" style="fill: #bdbdbd; stroke: #1a1a1a; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_30">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#ma747b543d8" x="210" y="155.34" style="fill: #bdbdbd; stroke: #1a1a1a; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_31">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#ma747b543d8" x="210" y="167.22" style="fill: #bdbdbd; stroke: #1a1a1a; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_32">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#m9f28fca841" x="366.72" y="26.46" style="fill: #6e6e6e; stroke: #1a1a1a; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_33">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#m9f28fca841" x="366.72" y="38.34" style="fill: #6e6e6e; stroke: #1a1a1a; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_34">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#m9f28fca841" x="366.72" y="50.22" style="fill: #6e6e6e; stroke: #1a1a1a; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_35">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#m9f28fca841" x="366.72" y="62.1" style="fill: #6e6e6e; stroke: #1a1a1a; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_36">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#mc4fbaf5c74" x="53.28" y="50.4" style="fill: #1a1a1a; stroke: #ffffff; stroke-width: 0.4"/>
+    </g>
+   </g>
+   <g id="line2d_37">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#ma747b543d8" x="53.28" y="143.46" style="fill: #bdbdbd; stroke: #1a1a1a; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_38">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#ma747b543d8" x="53.28" y="155.34" style="fill: #bdbdbd; stroke: #1a1a1a; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_39">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#ma747b543d8" x="366.72" y="143.46" style="fill: #bdbdbd; stroke: #1a1a1a; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_40">
+    <g clip-path="url(#p08321df2c7)">
+     <use xlink:href="#ma747b543d8" x="366.72" y="155.34" style="fill: #bdbdbd; stroke: #1a1a1a; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p08321df2c7">
+   <rect x="0" y="0" width="518.4" height="237.6"/>
+  </clipPath>
+ </defs>
+</svg>

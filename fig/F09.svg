@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="515.52pt" height="291.6pt" viewBox="0 0 515.52 291.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-19T17:04:39.593385</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 291.6 
+L 515.52 291.6 
+L 515.52 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="frame_offline">
+    <path d="M 8.32 232.56 
+L 129.92 232.56 
+Q 133.92 232.56 133.92 228.56 
+L 133.92 19.84 
+Q 133.92 15.84 129.92 15.84 
+L 8.32 15.84 
+Q 4.32 15.84 4.32 19.84 
+L 4.32 228.56 
+Q 4.32 232.56 8.32 232.56 
+L 8.32 232.56 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #9a9a9a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="frame_ros2">
+    <path d="M 143.68 232.56 
+L 507.2 232.56 
+Q 511.2 232.56 511.2 228.56 
+L 511.2 19.84 
+Q 511.2 15.84 507.2 15.84 
+L 143.68 15.84 
+Q 139.68 15.84 139.68 19.84 
+L 139.68 228.56 
+Q 139.68 232.56 143.68 232.56 
+L 143.68 232.56 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #9a9a9a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="box_planner">
+    <path d="M 148.88 76.32 
+L 245.68 76.32 
+Q 247.68 76.32 247.68 74.32 
+L 247.68 23.6 
+Q 247.68 21.6 245.68 21.6 
+L 148.88 21.6 
+Q 146.88 21.6 146.88 23.6 
+L 146.88 74.32 
+Q 146.88 76.32 148.88 76.32 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="box_supervisor">
+    <path d="M 300.08 76.32 
+L 398.32 76.32 
+Q 400.32 76.32 400.32 74.32 
+L 400.32 23.6 
+Q 400.32 21.6 398.32 21.6 
+L 300.08 21.6 
+Q 298.08 21.6 298.08 23.6 
+L 298.08 74.32 
+Q 298.08 76.32 300.08 76.32 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="box_operator">
+    <path d="M 419.6 45.36 
+L 503.44 45.36 
+Q 505.44 45.36 505.44 43.36 
+L 505.44 23.6 
+Q 505.44 21.6 503.44 21.6 
+L 419.6 21.6 
+Q 417.6 21.6 417.6 23.6 
+L 417.6 43.36 
+Q 417.6 45.36 419.6 45.36 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="box_scripts">
+    <path d="M 419.6 76.32 
+L 503.44 76.32 
+Q 505.44 76.32 505.44 74.32 
+L 505.44 54.56 
+Q 505.44 52.56 503.44 52.56 
+L 419.6 52.56 
+Q 417.6 52.56 417.6 54.56 
+L 417.6 74.32 
+Q 417.6 76.32 419.6 76.32 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="box_perception">
+    <path d="M 148.88 127.44 
+L 229.84 127.44 
+Q 231.84 127.44 231.84 125.44 
+L 231.84 97.76 
+Q 231.84 95.76 229.84 95.76 
+L 148.88 95.76 
+Q 146.88 95.76 146.88 97.76 
+L 146.88 125.44 
+Q 146.88 127.44 148.88 127.44 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="box_bar">
+    <path d="M 148.88 153.36 
+L 503.44 153.36 
+Q 505.44 153.36 505.44 151.36 
+L 505.44 142.4 
+Q 505.44 140.4 503.44 140.4 
+L 148.88 140.4 
+Q 146.88 140.4 146.88 142.4 
+L 146.88 151.36 
+Q 146.88 153.36 148.88 153.36 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #f2f2f2; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="box_logger">
+    <path d="M 148.88 219.6 
+L 205.36 219.6 
+Q 207.36 219.6 207.36 217.6 
+L 207.36 169.76 
+Q 207.36 167.76 205.36 167.76 
+L 148.88 167.76 
+Q 146.88 167.76 146.88 169.76 
+L 146.88 217.6 
+Q 146.88 219.6 148.88 219.6 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="box_eval">
+    <path d="M 218.72 226.44 
+L 289.6 226.44 
+Q 291.6 226.44 291.6 224.44 
+L 291.6 169.76 
+Q 291.6 167.76 289.6 167.76 
+L 218.72 167.76 
+Q 216.72 167.76 216.72 169.76 
+L 216.72 224.44 
+Q 216.72 226.44 218.72 226.44 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #ffffff; stroke-dasharray: 1.5,1; stroke-dashoffset: 0; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="box_sofa">
+    <path d="M 302.96 219.6 
+L 378.16 219.6 
+Q 380.16 219.6 380.16 217.6 
+L 380.16 169.76 
+Q 380.16 167.76 378.16 167.76 
+L 302.96 167.76 
+Q 300.96 167.76 300.96 169.76 
+L 300.96 217.6 
+Q 300.96 219.6 302.96 219.6 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="box_bench">
+    <path d="M 400.88 219.6 
+L 503.44 219.6 
+Q 505.44 219.6 505.44 217.6 
+L 505.44 169.76 
+Q 505.44 167.76 503.44 167.76 
+L 400.88 167.76 
+Q 398.88 167.76 398.88 169.76 
+L 398.88 217.6 
+Q 398.88 219.6 400.88 219.6 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="box_note">
+    <path d="M 17.84 278.64 
+L 114.64 278.64 
+Q 116.64 278.64 116.64 276.64 
+L 116.64 236 
+Q 116.64 234 114.64 234 
+L 17.84 234 
+Q 15.84 234 15.84 236 
+L 15.84 276.64 
+Q 15.84 278.64 17.84 278.64 
+L 17.84 278.64 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: none"/>
+   </g>
+   <g id="box_firmware">
+    <path d="M 141.68 287.28 
+L 509.2 287.28 
+Q 511.2 287.28 511.2 285.28 
+L 511.2 247.52 
+Q 511.2 245.52 509.2 245.52 
+L 141.68 245.52 
+Q 139.68 245.52 139.68 247.52 
+L 139.68 285.28 
+Q 139.68 287.28 141.68 287.28 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="box_logs">
+    <path d="M 20 219.6 
+L 126.16 219.6 
+Q 128.16 219.6 128.16 217.6 
+L 128.16 190.064 
+Q 128.16 188.064 126.16 188.064 
+L 20 188.064 
+Q 18 188.064 18 190.064 
+L 18 217.6 
+Q 18 219.6 20 219.6 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="box_export">
+    <path d="M 20 177.984 
+L 126.16 177.984 
+Q 128.16 177.984 128.16 175.984 
+L 128.16 148.448 
+Q 128.16 146.448 126.16 146.448 
+L 20 146.448 
+Q 18 146.448 18 148.448 
+L 18 175.984 
+Q 18 177.984 20 177.984 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="box_envs">
+    <path d="M 20 136.368 
+L 126.16 136.368 
+Q 128.16 136.368 128.16 134.368 
+L 128.16 106.832 
+Q 128.16 104.832 126.16 104.832 
+L 20 104.832 
+Q 18 104.832 18 106.832 
+L 18 134.368 
+Q 18 136.368 20 136.368 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="box_train">
+    <path d="M 20 94.752 
+L 126.16 94.752 
+Q 128.16 94.752 128.16 92.752 
+L 128.16 65.216 
+Q 128.16 63.216 126.16 63.216 
+L 20 63.216 
+Q 18 63.216 18 65.216 
+L 18 92.752 
+Q 18 94.752 20 94.752 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="box_weights">
+    <path d="M 20 53.136 
+L 126.16 53.136 
+Q 128.16 53.136 128.16 51.136 
+L 128.16 23.6 
+Q 128.16 21.6 126.16 21.6 
+L 20 21.6 
+Q 18 21.6 18 23.6 
+L 18 51.136 
+Q 18 53.136 20 53.136 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="conn_logs_export">
+    <path d="M 73.08 188.064 
+L 73.08 178.681782 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+    <path d="M 71.28 182.461782 
+L 73.08 178.681782 
+L 74.88 182.461782 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="conn_export_envs">
+    <path d="M 112.32 146.448 
+L 112.32 137.065782 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+    <path d="M 110.52 140.845782 
+L 112.32 137.065782 
+L 114.12 140.845782 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="conn_envs_train">
+    <path d="M 73.08 104.832 
+L 73.08 95.449782 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+    <path d="M 71.28 99.229782 
+L 73.08 95.449782 
+L 74.88 99.229782 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="conn_train_weights">
+    <path d="M 73.08 63.216 
+L 73.08 53.833782 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+    <path d="M 71.28 57.613782 
+L 73.08 53.833782 
+L 74.88 57.613782 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="conn_export_train">
+    <path d="M 18 162.216 
+L 10.8 162.216 
+L 10.8 78.984 
+L 17.302218 78.984 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+    <path d="M 13.522218 77.184 
+L 17.302218 78.984 
+L 13.522218 80.784 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="conn_weights_planner">
+    <path d="M 128.16 37.368 
+L 146.182218 37.368 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+    <path d="M 142.402218 35.568 
+L 146.182218 37.368 
+L 142.402218 39.168 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="conn_logger_logs">
+    <path d="M 146.88 203.832 
+L 128.857782 203.832 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+    <path d="M 132.637782 205.632 
+L 128.857782 203.832 
+L 132.637782 202.032 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="conn_perception_planner">
+    <path d="M 171.36 95.76 
+L 171.36 77.017782 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+    <path d="M 169.56 80.797782 
+L 171.36 77.017782 
+L 173.16 80.797782 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="conn_planner_supervisor">
+    <path d="M 247.68 48.96 
+L 297.382218 48.96 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+    <path d="M 293.602218 47.16 
+L 297.382218 48.96 
+L 293.602218 50.76 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="conn_operator_supervisor">
+    <path d="M 417.6 33.48 
+L 401.017782 33.48 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+    <path d="M 404.797782 35.28 
+L 401.017782 33.48 
+L 404.797782 31.68 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="conn_scripts_supervisor">
+    <path d="M 417.6 64.44 
+L 401.017782 64.44 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+    <path d="M 404.797782 66.24 
+L 401.017782 64.44 
+L 404.797782 62.64 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="conn_bar_perception">
+    <path d="M 171.36 140.4 
+L 171.36 128.137782 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+    <path d="M 169.56 131.917782 
+L 171.36 128.137782 
+L 173.16 131.917782 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="conn_bar_planner">
+    <path d="M 237.6 140.4 
+L 237.6 77.017782 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+    <path d="M 235.8 80.797782 
+L 237.6 77.017782 
+L 239.4 80.797782 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="conn_bar_supervisor">
+    <path d="M 316.8 140.4 
+L 316.8 77.017782 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+    <path d="M 315 80.797782 
+L 316.8 77.017782 
+L 318.6 80.797782 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="conn_supervisor_bar">
+    <path d="M 385.92 76.32 
+L 385.92 139.702218 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+    <path d="M 387.72 135.922218 
+L 385.92 139.702218 
+L 384.12 135.922218 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="conn_bar_logger">
+    <path d="M 177.12 153.36 
+L 177.12 167.062218 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+    <path d="M 178.92 163.282218 
+L 177.12 167.062218 
+L 175.32 163.282218 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="conn_eval_logger">
+    <path d="M 216.72 193.68 
+L 208.057782 193.68 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+    <path d="M 211.837782 195.48 
+L 208.057782 193.68 
+L 211.837782 191.88 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="conn_sofa_eval">
+    <path d="M 300.96 193.68 
+L 292.297782 193.68 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+    <path d="M 296.077782 195.48 
+L 292.297782 193.68 
+L 296.077782 191.88 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="conn_bench_eval">
+    <path d="M 407.52 219.6 
+L 407.52 223.56 
+L 292.297782 223.56 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+    <path d="M 296.077782 225.36 
+L 292.297782 223.56 
+L 296.077782 221.76 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="leader_note_eval">
+    <path d="M 116.64 239.04 
+L 254.16 239.04 
+L 254.16 226.44 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #595959; stroke-width: 0.5; stroke-linecap: square"/>
+   </g>
+   <g id="conn_bench_firmware">
+    <path d="M 429.12 219.6 
+L 429.12 244.822218 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+    <path d="M 430.92 241.042218 
+L 429.12 244.822218 
+L 427.32 241.042218 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="conn_firmware_bench">
+    <path d="M 444.96 245.52 
+L 444.96 220.297782 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+    <path d="M 443.16 224.077782 
+L 444.96 220.297782 
+L 446.76 224.077782 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="switch_0">
+    <path d="M 389.52 153.36 
+L 389.52 155.16 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6"/>
+   </g>
+   <g id="switch_1">
+    <path d="M 362.88 167.76 
+L 362.88 166.68 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6"/>
+   </g>
+   <g id="switch_2">
+    <path d="M 416.16 167.76 
+L 416.16 166.68 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6"/>
+   </g>
+   <g id="switch_3">
+    <path d="M 389.52 157.32 
+L 362.88 164.52 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6"/>
+   </g>
+   <g id="switch_open">
+    <path d="M 389.52 157.32 
+L 411.84 162 
+" clip-path="url(#pbe0ad4c582)" style="fill: none; stroke-dasharray: 1.2,0.9; stroke-dashoffset: 0; stroke: #1a1a1a; stroke-width: 0.6"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 389.52 159.48 
+C 390.092839 159.48 390.642293 159.252409 391.047351 158.847351 
+C 391.452409 158.442293 391.68 157.892839 391.68 157.32 
+C 391.68 156.747161 391.452409 156.197707 391.047351 155.792649 
+C 390.642293 155.387591 390.092839 155.16 389.52 155.16 
+C 388.947161 155.16 388.397707 155.387591 387.992649 155.792649 
+C 387.587591 156.197707 387.36 156.747161 387.36 157.32 
+C 387.36 157.892839 387.587591 158.442293 387.992649 158.847351 
+C 388.397707 159.252409 388.947161 159.48 389.52 159.48 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 362.88 166.68 
+C 363.452839 166.68 364.002293 166.452409 364.407351 166.047351 
+C 364.812409 165.642293 365.04 165.092839 365.04 164.52 
+C 365.04 163.947161 364.812409 163.397707 364.407351 162.992649 
+C 364.002293 162.587591 363.452839 162.36 362.88 162.36 
+C 362.307161 162.36 361.757707 162.587591 361.352649 162.992649 
+C 360.947591 163.397707 360.72 163.947161 360.72 164.52 
+C 360.72 165.092839 360.947591 165.642293 361.352649 166.047351 
+C 361.757707 166.452409 362.307161 166.68 362.88 166.68 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 416.16 166.68 
+C 416.732839 166.68 417.282293 166.452409 417.687351 166.047351 
+C 418.092409 165.642293 418.32 165.092839 418.32 164.52 
+C 418.32 163.947161 418.092409 163.397707 417.687351 162.992649 
+C 417.282293 162.587591 416.732839 162.36 416.16 162.36 
+C 415.587161 162.36 415.037707 162.587591 414.632649 162.992649 
+C 414.227591 163.397707 414 163.947161 414 164.52 
+C 414 165.092839 414.227591 165.642293 414.632649 166.047351 
+C 415.037707 166.452409 415.587161 166.68 416.16 166.68 
+z
+" clip-path="url(#pbe0ad4c582)" style="fill: #ffffff; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="panel_(a)">
+    <text style="font-size: 9px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="5.76" y="11.52" transform="rotate(-0 5.76 11.52)">(a)</text>
+   </g>
+   <g id="heading_(a)">
+    <text style="font-size: 9px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="21.06" y="11.52" transform="rotate(-0 21.06 11.52)">Offline, outside ROS 2</text>
+   </g>
+   <g id="panel_(b)">
+    <text style="font-size: 9px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="141.12" y="11.52" transform="rotate(-0 141.12 11.52)">(b)</text>
+   </g>
+   <g id="heading_(b)">
+    <text style="font-size: 9px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="156.48" y="11.52" transform="rotate(-0 156.48 11.52)">Runtime: ROS 2 supervisory layer</text>
+   </g>
+   <g id="title_planner">
+    <text style="font-size: 9px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="197.28" y="31.766641" transform="rotate(-0 197.28 31.766641)">World-model planner</text>
+   </g>
+   <g id="text_planner_0">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="197.28" y="41.83125" transform="rotate(-0 197.28 41.83125)">latent dynamics +</text>
+   </g>
+   <g id="text_planner_1">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="197.28" y="51.64" transform="rotate(-0 197.28 51.64)">planner (MPPI)</text>
+   </g>
+   <g id="text_planner_2">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="197.28" y="61.446875" transform="rotate(-0 197.28 61.446875)">MPC cost: predicted</text>
+   </g>
+   <g id="text_planner_3">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="197.28" y="71.158125" transform="rotate(-0 197.28 71.158125)">Fz/Tz constraint</text>
+   </g>
+   <g id="title_supervisor">
+    <text style="font-size: 9px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="349.2" y="31.76875" transform="rotate(-0 349.2 31.76875)">Safety supervisor (L2)</text>
+   </g>
+   <g id="text_supervisor_0">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="349.2" y="41.926875" transform="rotate(-0 349.2 41.926875)">forwards cmd_request as</text>
+   </g>
+   <g id="text_supervisor_1">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="349.2" y="51.64" transform="rotate(-0 349.2 51.64)">cmd_gated only if all</text>
+   </g>
+   <g id="text_supervisor_2">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="349.2" y="61.449375" transform="rotate(-0 349.2 61.449375)">rules pass; else HOLD,</text>
+   </g>
+   <g id="text_supervisor_3">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="349.2" y="71.158125" transform="rotate(-0 349.2 71.158125)">RETRACT or LATCH</text>
+   </g>
+   <g id="title_operator">
+    <text style="font-size: 9px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="461.52" y="30.984297" transform="rotate(-0 461.52 30.984297)">Operator console</text>
+   </g>
+   <g id="text_operator_0">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="461.52" y="41.086875" transform="rotate(-0 461.52 41.086875)">L3: /operator/command</text>
+   </g>
+   <g id="title_scripts">
+    <text style="font-size: 9px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="461.52" y="61.941484" transform="rotate(-0 461.52 61.941484)">Scripts</text>
+   </g>
+   <g id="text_scripts_0">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="461.52" y="71.998125" transform="rotate(-0 461.52 71.998125)">cmd_request</text>
+   </g>
+   <g id="title_perception">
+    <text style="font-size: 9px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="189.36" y="104.166641" transform="rotate(-0 189.36 104.166641)">Perception</text>
+   </g>
+   <g id="text_perception_0">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="189.36" y="114.23125" transform="rotate(-0 189.36 114.23125)">segmentation → tip →</text>
+   </g>
+   <g id="text_perception_1">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="189.36" y="123.99125" transform="rotate(-0 189.36 123.99125)">centreline graph</text>
+   </g>
+   <g id="title_bar">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="326.16" y="148.95" transform="rotate(-0 326.16 148.95)">Same topic names and types for both back ends; the launch file selects one (no code change)</text>
+   </g>
+   <g id="title_logger">
+    <text style="font-size: 9px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="177.12" y="186.193906" transform="rotate(-0 177.12 186.193906)">Logger</text>
+   </g>
+   <g id="text_logger_0">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="177.12" y="196.36" transform="rotate(-0 177.12 196.36)">rosbag2/MCAP</text>
+   </g>
+   <g id="text_logger_1">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="177.12" y="206.118125" transform="rotate(-0 177.12 206.118125)">all topics</text>
+   </g>
+   <g id="title_eval">
+    <text style="font-size: 9px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="254.16" y="179.906641" transform="rotate(-0 254.16 179.906641)">/eval/*</text>
+   </g>
+   <g id="text_eval_0">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="254.16" y="189.97125" transform="rotate(-0 254.16 189.97125)">evaluation only:</text>
+   </g>
+   <g id="text_eval_1">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="254.16" y="199.7825" transform="rotate(-0 254.16 199.7825)">SOFA ground truth</text>
+   </g>
+   <g id="text_eval_2">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="254.16" y="209.54" transform="rotate(-0 254.16 209.54)">(twin); second</text>
+   </g>
+   <g id="text_eval_3">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="254.16" y="219.3" transform="rotate(-0 254.16 219.3)">camera (bench)</text>
+   </g>
+   <g id="title_sofa">
+    <text style="font-size: 9px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="340.56" y="176.486641" transform="rotate(-0 340.56 176.486641)">A: SOFA twin</text>
+   </g>
+   <g id="text_sofa_0">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="340.56" y="186.6025" transform="rotate(-0 340.56 186.6025)">SOFA + rclpy,</text>
+   </g>
+   <g id="text_sofa_1">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="340.56" y="196.31125" transform="rotate(-0 340.56 196.31125)">one Python process;</text>
+   </g>
+   <g id="text_sofa_2">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="340.56" y="206.166875" transform="rotate(-0 340.56 206.166875)">lock-step, /clock;</text>
+   </g>
+   <g id="text_sofa_3">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="340.56" y="215.83125" transform="rotate(-0 340.56 215.83125)">X-ray-style render</text>
+   </g>
+   <g id="title_bench">
+    <text style="font-size: 9px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="452.16" y="176.433906" transform="rotate(-0 452.16 176.433906)">B: LegoBot bench</text>
+   </g>
+   <g id="text_bench_0">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="452.16" y="186.6" transform="rotate(-0 452.16 186.6)">legobot_hw (ros2_control);</text>
+   </g>
+   <g id="text_bench_1">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="452.16" y="196.36" transform="rotate(-0 452.16 196.36)">camera pseudo-fluoroscopy;</text>
+   </g>
+   <g id="text_bench_2">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="452.16" y="206.166875" transform="rotate(-0 452.16 206.166875)">planned: Fz/Tz ≥1 kHz raw,</text>
+   </g>
+   <g id="text_bench_3">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="452.16" y="215.878125" transform="rotate(-0 452.16 215.878125)">displacement sensor</text>
+   </g>
+   <g id="text_note_0">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="66.24" y="243.748125" transform="rotate(-0 66.24 243.748125)">Second camera: tracker</text>
+   </g>
+   <g id="text_note_1">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="66.24" y="253.508125" transform="rotate(-0 66.24 253.508125)">calibration reference</text>
+   </g>
+   <g id="text_note_2">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="66.24" y="263.27" transform="rotate(-0 66.24 263.27)">(not the success endpoint,</text>
+   </g>
+   <g id="text_note_3">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="66.24" y="273.03" transform="rotate(-0 66.24 273.03)">not a control input)</text>
+   </g>
+   <g id="title_firmware">
+    <text style="font-size: 9px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="325.44" y="254.091562" transform="rotate(-0 325.44 254.091562)">LegoBot firmware and drives (bench only), outside ROS 2</text>
+   </g>
+   <g id="text_firmware_0">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="325.44" y="264.2" transform="rotate(-0 325.44 264.2)">L1: Teensy 4.1, 500 Hz command pipeline, 1 Mbps CAN to BLDC drives;</text>
+   </g>
+   <g id="text_firmware_1">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="325.44" y="273.96" transform="rotate(-0 325.44 273.96)">current limiting, 2 Hz watchdog; command-staleness timeout (to add)</text>
+   </g>
+   <g id="text_firmware_2">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="325.44" y="283.72" transform="rotate(-0 325.44 283.72)">L0: e-stops; device stays clamped on power loss (user; back-drive test pending)</text>
+   </g>
+   <g id="title_logs">
+    <text style="font-size: 9px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="73.08" y="201.225906" transform="rotate(-0 73.08 201.225906)">Trial logs</text>
+   </g>
+   <g id="text_logs_0">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="73.08" y="211.392" transform="rotate(-0 73.08 211.392)">MCAP bag + trial.yaml</text>
+   </g>
+   <g id="title_export">
+    <text style="font-size: 9px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="73.08" y="159.662641" transform="rotate(-0 73.08 159.662641)">Exporters</text>
+   </g>
+   <g id="text_export_0">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="73.08" y="169.739125" transform="rotate(-0 73.08 169.739125)">bag2ident, bag2transitions</text>
+   </g>
+   <g id="title_envs">
+    <text style="font-size: 9px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="73.08" y="118.051562" transform="rotate(-0 73.08 118.051562)">SOFA Gymnasium envs</text>
+   </g>
+   <g id="text_envs_0">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="73.08" y="128.158125" transform="rotate(-0 73.08 128.158125)">parallel processes</text>
+   </g>
+   <g id="title_train">
+    <text style="font-size: 9px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="73.08" y="71.497906" transform="rotate(-0 73.08 71.497906)">Training</text>
+   </g>
+   <g id="text_train_0">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="73.08" y="81.664" transform="rotate(-0 73.08 81.664)">TD-MPC2-style world model;</text>
+   </g>
+   <g id="text_train_1">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="73.08" y="91.422125" transform="rotate(-0 73.08 91.422125)">IL, offline RL</text>
+   </g>
+   <g id="title_weights">
+    <text style="font-size: 9px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="73.08" y="34.81675" transform="rotate(-0 73.08 34.81675)">Weights + config</text>
+   </g>
+   <g id="text_weights_0">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="73.08" y="44.87925" transform="rotate(-0 73.08 44.87925)">shared legobot_obs</text>
+   </g>
+   <g id="label_export_envs">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1a1a1a" x="108" y="143.527375" transform="rotate(-0 108 143.527375)">SOFA parameters</text>
+   </g>
+   <g id="label_perception_planner">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; fill: #1a1a1a" transform="translate(175.68 84.158812)">TipState</text>
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; fill: #1a1a1a" transform="translate(175.68 92.154937)">per frame</text>
+   </g>
+   <g id="label_planner_supervisor">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="272.88" y="44.908125" transform="rotate(-0 272.88 44.908125)">cmd_request</text>
+   </g>
+   <g id="label_policy_rate">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="272.88" y="57.148125" transform="rotate(-0 272.88 57.148125)">7.5–15 Hz</text>
+   </g>
+   <g id="label_bar_perception">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="175.68" y="135.94125" transform="rotate(-0 175.68 135.94125)">image_raw</text>
+   </g>
+   <g id="label_bar_planner">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; fill: #1a1a1a" transform="translate(241.92 109.723687)">Fz/Tz, DeviceState</text>
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; fill: #1a1a1a" transform="translate(241.92 117.612562)">100–200 Hz</text>
+   </g>
+   <g id="label_bar_supervisor">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; fill: #1a1a1a" transform="translate(321.12 109.723687)">Fz/Tz raw</text>
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; fill: #1a1a1a" transform="translate(321.12 117.612562)">≥1 kHz</text>
+   </g>
+   <g id="label_supervisor_bar">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="390.24" y="113.62125" transform="rotate(-0 390.24 113.62125)">cmd_gated</text>
+   </g>
+   <g id="label_bench_firmware">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1a1a1a" x="424.8" y="241.108125" transform="rotate(-0 424.8 241.108125)">set-points</text>
+   </g>
+   <g id="label_firmware_bench">
+    <text style="font-size: 8px; font-family: 'Arial', 'Helvetica', 'Liberation Sans', 'Arimo', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="449.28" y="241.12" transform="rotate(-0 449.28 241.12)">200 Hz uplink</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pbe0ad4c582">
+   <rect x="0" y="0" width="515.52" height="291.6"/>
+  </clipPath>
+ </defs>
+</svg>
